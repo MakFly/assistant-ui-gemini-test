@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Assistant UI",
+  "description": "A high-fidelity streaming chat interface mimicking assistant-ui powered by the Gemini API.",
+  "requestFramePermissions": []
+}
